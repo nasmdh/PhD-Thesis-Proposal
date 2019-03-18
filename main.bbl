@@ -1,0 +1,391 @@
+\begin{thebibliography}{10}
+
+\bibitem{ieereqspecstandard}
+{ISO/IEC/IEEE International Standard - Systems and software engineering -- Life
+  cycle processes --Requirements engineering}.
+\newblock {\em ISO/IEC/IEEE 29148:2011(E)}, pages 1--94, 12 2011.
+
+\bibitem{Agerholm1999AMethods}
+Sten Agerholm and Peter~Gorm Larsen.
+\newblock {A lightweight approach to formal methods}.
+\newblock In {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, 1999.
+
+\bibitem{Baader2010TheApplications}
+Franz Baader, Diego Calvanese, Deborah~L. McGuinness, Daniele Nardi, and
+  Peter~F. Patel-Schneider.
+\newblock {The Description Logic Handbook: Theory, Implementation and
+  Applications}.
+\newblock {\em Kybernetes}, 2010.
+
+\bibitem{bambagini2016energy}
+Mario Bambagini, Mauro Marinoni, Hakan Aydin, and Giorgio Buttazzo.
+\newblock {Energy-aware Scheduling for Real-time Systems: A survey}.
+\newblock {\em ACM Transactions on Embedded Computing Systems (TECS)}, 15(1):7,
+  2016.
+
+\bibitem{Becker2017End-to-endSystems}
+Matthias Becker, Dakshina Dasari, Saad Mubeen, Moris Behnam, and Thomas Nolte.
+\newblock {End-to-end timing analysis of cause-effect chains in automotive
+  embedded systems}.
+\newblock {\em Journal of Systems Architecture}, 2017.
+
+\bibitem{qualitateiveresearch2012}
+Bruce L (Bruce~Lawrence) Berg and 1962-Author Lune~Howard.
+\newblock {\em {Qualitative research methods for the social sciences}}.
+\newblock Boston Pearson, eighth edi edition, 2012.
+
+\bibitem{bond2002iec}
+K~Bond.
+\newblock {IEC 61511-Functional Safety: Safety Instrumented Systems for the
+  Process Industry Sector}.
+\newblock In {\em Annual Symposium on Instrumentation for the Process
+  Industries}, volume~57, pages 33--40. Instrument Society Of America, 2002.
+
+\bibitem{Braun2014GuidingApproach}
+Peter Braun, Manfred Broy, Frank Houdek, Matthias Kirchmayr, Mark M{\"{u}}ller,
+  Birgit Penzenstadler, Klaus Pohl, and Thorsten Weyer.
+\newblock {Guiding requirements engineering for software-intensive embedded
+  systems in the automotive industry: The REMsES approach}.
+\newblock {\em Computer Science - Research and Development}, 2014.
+
+\bibitem{Bulychev2012UPPAAL-SMC:Automata}
+Peter Bulychev, Alexandre David, Kim~Gulstrand Larsen, Marius Miku{\v{c}}ionis,
+  Danny B{\o}gsted~Poulsen, Axel Legay, and Zheng Wang.
+\newblock {UPPAAL-SMC: Statistical Model Checking for Priced Timed Automata}.
+\newblock {\em Electronic Proceedings in Theoretical Computer Science}, 2012.
+
+\bibitem{Carr2004PrototypingApproaches}
+Mahil Carr and June Verner.
+\newblock {Prototyping and Software Development Approaches}.
+\newblock {\em Prototyping and Software Development Approaches}, 2004.
+
+\bibitem{Clark2010TheProcessing}
+Alexander Clark, Chris Fox, and Shalom Lappin.
+\newblock {\em {The Handbook of Computational Linguistics and Natural Language
+  Processing}}.
+\newblock 2010.
+
+\bibitem{Creswell2014ResearchApproaches}
+J~W Creswell.
+\newblock {\em {Research Design: Qualitative, Quantitative, and Mixed Methods
+  Approaches}}.
+\newblock 2014.
+
+\bibitem{DeMoura2008Z3:Solver}
+Leonardo De~Moura and Nikolaj Bj{\o}rner.
+\newblock {Z3: An efficient SMT Solver}.
+\newblock In {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, 2008.
+
+\bibitem{devadas2012interplay}
+Vinay Devadas and Hakan Aydin.
+\newblock {On the Interplay of Voltage/Frequency Scaling and Device Power
+  Management for Frame-based Real-time Embedded Applications}.
+\newblock {\em IEEE Transactions on Computers}, 61(1):31--44, 2012.
+
+\bibitem{devlin2008satisfiability}
+David Devlin and Barry OSullivan.
+\newblock {Satisfiability as a classification problem}.
+\newblock In {\em Proc. of the 19th Irish Conf. on Artificial Intelligence and
+  Cognitive Science}, 2008.
+
+\bibitem{Ebert2009EmbeddedFuture}
+Christof Ebert and Capers Jones.
+\newblock {Embedded Software: Facts, Figures, and Future}.
+\newblock {\em Computer}, 42(4):42--52, 4 2009.
+
+\bibitem{faragardi2013towards}
+Hamid~Reza Faragardi, Aboozar Rajabi, Reza Shojaee, and Thomas Nolte.
+\newblock {Towards Energy-aware Resource Scheduling to Maximize Reliability in
+  Cloud Computing Systems}.
+\newblock In {\em High Performance Computing and Communications {\&} 2013 IEEE
+  International Conference on Embedded and Ubiquitous Computing (HPCC{\_}EUC),
+  2013 IEEE 10th International Conference on}, pages 1469--1479. IEEE, 2013.
+
+\bibitem{Farfeleder2011DODT:Development}
+Stefan Farfeleder, Thomas Moser, Andreas Krall, Tor St{\aa}lhane, Herbert
+  Zojer, and Christian Panis.
+\newblock {DODT: Increasing requirements formalism using domain ontologies for
+  improved embedded systems development}.
+\newblock In {\em Proceedings of the 2011 IEEE Symposium on Design and
+  Diagnostics of Electronic Circuits and Systems, DDECS 2011}, 2011.
+
+\bibitem{Feiertag2009ASemantics}
+Nico Feiertag, Kai Richter, Johan Nordlander, and Jan Jonsson.
+\newblock {A Compositional Framework for End-to-end Path Delay Calculation of
+  Automotive Systems under Different Path Semantics}.
+\newblock In {\em IEEE Real-Time Systems Symposium: 30/11/2009-03/12/2009}.
+  IEEE Communications Society, 2009.
+
+\bibitem{Ferrante2012ParallelSystems}
+Orlando Ferrante, Luca Benvenuti, Leonardo Mangeruca, Christos Sofronis, and
+  Alberto Ferrari.
+\newblock {Parallel NuSMV: A NuSMV extension for the verification of complex
+  embedded systems}.
+\newblock In {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, 2012.
+
+\bibitem{Filipovikj2016SimulinkSystems}
+P.~Filipovikj, N.~Mahmud, R.~Marinescu, C.~Seceleanu, O.~Ljungkrantz, and
+  H.~L{\"{o}}nn.
+\newblock {\em {Simulink to UPPAAL statistical model checker: Analyzing
+  automotive industrial systems}}, volume 9995 LNCS.
+\newblock 2016.
+
+\bibitem{Filipovikj4714}
+Predrag Filipovikj, Nesredin Mahmud, Raluca Marinescu, Guillermo
+  Rodriguez-Navas, Cristina Seceleanu, Oscar Ljungkrantz, and Henrik
+  L{\"{o}}nn.
+\newblock {Analyzing Industrial Simulink Models by Statistical Model Checking}.
+\newblock Technical report, 3 2017.
+
+\bibitem{Filipovikj2014ReassessingDomain}
+Predrag Filipovikj, Mattias Nyberg, and Guillermo Rodriguez-Navas.
+\newblock {Reassessing the pattern-based approach for formalizing requirements
+  in the automotive domain}.
+\newblock In {\em 2014 IEEE 22nd International Requirements Engineering
+  Conference (RE)}, pages 444--450. IEEE, 8 2014.
+
+\bibitem{attempto96}
+Norbert~E Fuchs and Rolf Schwitter.
+\newblock {Attempto Controlled English {\{}(ACE){\}}}.
+\newblock {\em CoRR}, cmp-lg/960, 1996.
+
+\bibitem{Gorschek2006APractice}
+Tony Gorschek, Per Garre, Stig Larsson, and Claes Wohlin.
+\newblock {A model for technology transfer in practice}.
+\newblock {\em IEEE Software}, 2006.
+
+\bibitem{Grimm2003SoftwareChallenges}
+K.~Grimm.
+\newblock {Software technology in an automotive company - major challenges}.
+\newblock In {\em 25th International Conference on Software Engineering, 2003.
+  Proceedings.}, pages 498--503. IEEE, 2003.
+
+\bibitem{Gruhn2006PatternsSpecifications}
+Volker Gruhn and Ralf Laue.
+\newblock {Patterns for Timed Property Specifications}.
+\newblock {\em Electronic Notes in Theoretical Computer Science}, 2006.
+
+\bibitem{Hocking2016ProvingModels}
+Ashlie~B. Hocking, M.~Anthony Aiello, John~C. Knight, and Nikos Ar{\'{e}}chiga.
+\newblock {Proving Critical Properties of Simulink Models}.
+\newblock In {\em Proceedings of IEEE International Symposium on High Assurance
+  Systems Engineering}, 2016.
+
+\bibitem{Hull2011RequirementsEngineering}
+Elizabeth Hull, Ken Jackson, and Jeremy Dick.
+\newblock {\em {Requirements Engineering}}.
+\newblock Springer London, London, 2011.
+
+\bibitem{iso201126262}
+ISO26262 ISO.
+\newblock {26262: Road vehicles-Functional safety}.
+\newblock Technical report, ISO/TC 22/SC 32 Electrical and electronic
+  components and general system aspects, 2011.
+
+\bibitem{lightweigh2001}
+Daniel Jackson.
+\newblock {Lightweight Formal Methods}.
+\newblock In José~Nuno Oliveira and Pamela Zave, editors, {\em FME 2001:
+  Formal Methods for Increasing Software Productivity}, page~1, Berlin,
+  Heidelberg, 2001. Springer Berlin Heidelberg.
+
+\bibitem{JamesB.Dabney2003MasteringSimulink}
+Thomas L.~Harman James B.~Dabney.
+\newblock {\em {Mastering Simulink}}.
+\newblock Pearson, 2003.
+
+\bibitem{Kekatos2018ConstructingHybridization}
+Nikolaos Kekatos, Marcelo Forets, and Goran Frehse.
+\newblock {Constructing verification models of nonlinear Simulink systems via
+  syntactic hybridization}.
+\newblock In {\em 2017 IEEE 56th Annual Conference on Decision and Control, CDC
+  2017}, 2018.
+
+\bibitem{Konrad2005Real-timePatterns}
+Sascha Konrad and Betty H.~C. Cheng.
+\newblock {Real-time specification patterns}.
+\newblock In {\em Proceedings of the 27th international conference on Software
+  engineering - ICSE '05}, page 372, New York, New York, USA, 2005. ACM Press.
+
+\bibitem{Kuhn2014ALanguages}
+Tobias Kuhn.
+\newblock {A Survey and Classification of Controlled Natural Languages}.
+\newblock {\em Computational Linguistics}, 40(1):121--170, 3 2014.
+
+\bibitem{Laplante2017RequirementsEdition}
+Phillip~A. Laplante.
+\newblock {\em {Requirements Engineering for Software and Systems, Third
+  Edition}}.
+\newblock Auerbach Publications, 10 2017.
+
+\bibitem{Lee2011IntroductionApproach}
+Edward~Ashford Lee and Sanjit~Arunkumarr Seshia.
+\newblock {\em {Introduction to Embedded Systems: A Cyber-Physical Systems
+  Approach}}.
+\newblock 2011.
+
+\bibitem{Legay2010StatisticalOverview}
+Axel Legay, Benoît Delahaye, and Saddek Bensalem.
+\newblock {Statistical Model Checking: An Overview}.
+\newblock pages 122--135. Springer, Berlin, Heidelberg, 2010.
+
+\bibitem{Leitner2008SimulinkStudy}
+Florian Leitner and Stefan Leue.
+\newblock {Simulink Design Verifier vs. SPIN a Comparative Case Study}.
+\newblock {\em Proceedings of FMICS}, 2008.
+
+\bibitem{resatool}
+N~Mahmud, C~Seceleanu, and O~Ljungkrantz.
+\newblock {ReSA Tool: Structured requirements specification and SAT-based
+  consistency-checking}.
+\newblock In {\em 2016 Federated Conference on Computer Science and Information
+  Systems (FedCSIS)}, pages 1737--1746, 9 2016.
+
+\bibitem{Mahmud5222}
+Nesredin Mahmud, Guillermo Rodriguez-Navas, Hamid~Reza Faragardi, Saad Mubeen,
+  and Cristina Seceleanu.
+\newblock {Power-aware Allocation of Fault-tolerant Multi-rate AUTOSAR
+  Applications}.
+\newblock In {\em 25th Asia-Pacific Software Engineering Conference}, 12 2018.
+
+\bibitem{Mahmud2015ReSA:Systems}
+Nesredin Mahmud, Cristina Seceleanu, and Oscar Ljungkrantz.
+\newblock {ReSA: An ontology-based requirement specification language tailored
+  to automotive systems}.
+\newblock In {\em 2015 10th IEEE International Symposium on Industrial Embedded
+  Systems, SIES 2015 - Proceedings}, pages 1--10, 2015.
+
+\bibitem{Mahmud2017SpecificationLogic}
+Nesredin Mahmud, Cristina Seceleanu, and Oscar Ljungkrantz.
+\newblock {Specification and Semantic Analysis of Embedded Systems
+  Requirements: From Description Logic to Temporal Logic}.
+\newblock pages 332--348. Springer, Cham, 9 2017.
+
+\bibitem{Mankovskii2009OWL:Language}
+Serguei Mankovskii, Martin Gogolla, Susan~D. Urban, Suzanne~W. Dietrich,
+  Susan~D. Urban, Suzanne~W. Dietrich, Ming-Hsuan Yang, Gillian Dobbie,
+  Tok~Wang Ling, Terry Halpin, Bettina Kemme, Nicole Schweikardt, Alberto
+  Abell{\'{o}}, Oscar Romero, Ricardo Jimenez-Peris, Robert Stevens, Phillip
+  Lord, Tom Gruber, Pieter~De Leenheer, Avigdor Gal, Sean Bechhofer, Norman~W.
+  Paton, Changqing Li, Alejandro Buchmann, Nikos Hardavellas, Ippokratis
+  Pandis, Bing Liu, Marc Shapiro, Ladjel Bellatreche, Peter M.~D. Gray,
+  W.~M.~P. Aalst, Nathaniel Palmer, Nathaniel Palmer, Tore Risch, Wojciech
+  Galuba, Sarunas Girdzijauskas, and Sean Bechhofer.
+\newblock {OWL: Web Ontology Language}.
+\newblock In {\em Encyclopedia of Database Systems}, pages 2008--2009. Springer
+  US, Boston, MA, 2009.
+
+\bibitem{Martins2017RequirementsChallenges}
+Luiz Eduardo~G. Martins and Tony Gorschek.
+\newblock {Requirements Engineering for Safety-Critical Systems: Overview and
+  Challenges}.
+\newblock {\em IEEE Software}, 34(4):49--57, 2017.
+
+\bibitem{Meenakshi2006ToolChecker}
+B.~Meenakshi, Abhishek Bhatnagar, and Sudeepa Roy.
+\newblock {Tool for Translating Simulink Models into Input Language of a Model
+  Checker}.
+\newblock pages 606--620. Springer, Berlin, Heidelberg, 2006.
+
+\bibitem{mubeen2013support}
+Saad Mubeen, Jukka M{\"{a}}ki-Turja, and Mikael Sj{\"{o}}din.
+\newblock {Support for End-to-end Response-time and Delay Analysis in the
+  Industrial Tool Suite: Issues, Experiences and A Case Study}.
+\newblock {\em Computer Science and Information Systems}, 10(1):453--482, 2013.
+
+\bibitem{Myachykov2013SyntacticRussian}
+Andriy Myachykov, Christoph Scheepers, Simon Garrod, Dominic Thompson, and Olga
+  Fedorova.
+\newblock {Syntactic flexibility and competition in sentence production: The
+  case of English and Russian}.
+\newblock {\em Quarterly Journal of Experimental Psychology}, 2013.
+
+\bibitem{NaumannAUTOSARBus}
+Nico Naumann.
+\newblock {AUTOSAR Runtime Environment and Virtual Function Bus}.
+\newblock {\em Hasso-Plattner-Institut, Tech. Rep}.
+
+\bibitem{Nellen2018FormalRecommendations}
+Johanna Nellen, Thomas Rambow, Md~Tawhid~Bin Waez, Erika {\'{A}}brah{\'{a}}m,
+  and Joost-Pieter Katoen.
+\newblock {Formal Verification of Automotive Simulink Controller Models:
+  Empirical Technical Challenges, Evaluation and Recommendations}.
+\newblock pages 382--398. Springer, Cham, 7 2018.
+
+\bibitem{OreganUndergraduateScience}
+Gerard O'regan.
+\newblock {\em {Undergraduate Topics in Computer Science}}.
+
+\bibitem{Post2012AutomotiveBOSCH}
+Amalinda Post, Igor Menzel, Jochen Hoenicke, and Andreas Podelski.
+\newblock {Automotive behavioral requirements expressed in a specification
+  pattern system: a case study at BOSCH}.
+\newblock {\em Requirements Engineering}, 17(1):19--33, 3 2012.
+
+\bibitem{Saidi2015AnArchitectures}
+Salah~Eddine Saidi, Sylvain Cotard, Khaled Chaaban, and Kevin Marteil.
+\newblock {An ILP Approach for Mapping AUTOSAR Runnables on Multi-core
+  Architectures}.
+\newblock In {\em Proceedings of the 2015 Workshop on Rapid Simulation and
+  Performance Evaluation Methods and Tools - RAPIDO '15}, pages 1--8, New York,
+  USA, 2015. ACM Press.
+
+\bibitem{Sangiovanni-Vincentelli2004BenefitsDesign}
+Alberto Sangiovanni-Vincentelli, Luca Carloni, Fernando De~Bernardinis, and
+  Marco Sgroi.
+\newblock {Benefits and Challenges for Platform-based Design}.
+\newblock In {\em Proceedings of the 41st annual conference on Design
+  automation - DAC '04}, page 409, New York, USA, 2004. ACM Press.
+
+\bibitem{Schwitter2002EnglishLanguage}
+R~Schwitter.
+\newblock {English as a formal specification language}.
+\newblock In {\em Proceedings. 13th International Workshop on Database and
+  Expert Systems Applications}, pages 228--232. IEEE Comput. Soc, 2002.
+
+\bibitem{conf/owled/ShearerMH08}
+Rob Shearer, Boris Motik, and Ian Horrocks.
+\newblock {HermiT: A Highly-Efficient OWL Reasoner.}
+\newblock In Catherine Dolbear, Alan Ruttenberg, and Ulrike Sattler, editors,
+  {\em OWLED}, volume 432 of {\em CEUR Workshop Proceedings}. CEUR-WS.org,
+  2008.
+
+\bibitem{Sikora2011RequirementsNeeds}
+Ernst Sikora, Bastian Tenbergen, and Klaus Pohl.
+\newblock {Requirements engineering for embedded systems: An investigation of
+  industry needs}.
+\newblock In {\em Lecture Notes in Computer Science (including subseries
+  Lecture Notes in Artificial Intelligence and Lecture Notes in
+  Bioinformatics)}, 2011.
+
+\bibitem{vsvogor2014extended}
+Ivan {\v{S}}vogor, Ivica Crnkovic, and Neven Vrcek.
+\newblock {An Extended Model for Multi-Criteria Software Component Allocation
+  on a Heterogeneous Embedded Platform}.
+\newblock {\em Journal of computing and information technology},
+  21(4):211--222, 2014.
+
+\bibitem{WangJiacun2017RES}
+Jiacun Wang.
+\newblock {\em {Real-Time Embedded Systems}}.
+\newblock 2017.
+
+\bibitem{Wang2016DevelopingDO-178Cb}
+Yanyun Wang.
+\newblock {Developing Safety Critical Embedded Software under DO-178C}, 2016.
+
+\bibitem{Wozniak2013AnArchitectures}
+Ernest Wozniak, Asma Mehiaoui, Chokri Mraidha, Sara Tucci-Piergiovanni, and
+  Sébastien Gerard.
+\newblock {An Optimization Approach for the Synthesis of AUTOSAR
+  Architectures}.
+\newblock In {\em IEEE International Conference on Emerging Technologies and
+  Factory Automation, ETFA}, 2013.
+
+\end{thebibliography}

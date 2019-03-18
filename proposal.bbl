@@ -1,0 +1,240 @@
+\begin{thebibliography}{10}
+
+\bibitem{simulink}
+Simulation and model-based design.
+\newblock https://se.mathworks.com/products/simulink.html.
+\newblock Accessed: 2016-12-09.
+
+\bibitem{agrawal2004semantic}
+A.~Agrawal, G.~Simon, and G.~Karsai.
+\newblock {Semantic Translation of Simulink/Stateflow Models to Hybrid Automata
+  using Graph Transformations}.
+\newblock {\em ENTCS Journal}, 109:43--56, 2004.
+
+\bibitem{alluhaibi2015simple}
+Reyadh Alluhaibi.
+\newblock Simple interval temporal logic for natural language assertion
+  descriptions.
+\newblock {\em IWCS 2015}, page 283, 2015.
+
+\bibitem{annervaz2013natural}
+KM~Annervaz, Vikrant Kaulgud, Shubhashis Sengupta, and Milind Savagaonkar.
+\newblock Natural language requirements quality analysis based on business
+  domain models.
+\newblock In {\em Automated Software Engineering (ASE), 2013 IEEE/ACM 28th
+  International Conference on}, pages 676--681. IEEE, 2013.
+
+\bibitem{barnat2012tool}
+J.~Barnat, J.~Beran, L.~Brim, T.~Kratochv{\'\i}la, and P.~Ro{\v{c}}kai.
+\newblock {Tool chain to Support Automated Formal Verification of Avionics
+  Simulink Designs}.
+\newblock In {\em FMICS}, pages 78--92. Springer, 2012.
+
+\bibitem{boehm1971software}
+Barry~W Boehm.
+\newblock Software and it's impact: A quantitative assessment.
+\newblock {\em Datamation}, page~41, 1971.
+
+\bibitem{Bulychev2012}
+Peter Bulychev, Alexandre David, Kim Guldstrand~Larsen, Axel Legay, Guangyuan
+  Li, Danny B{\o}gsted~Poulsen, and Amelie Stainer.
+\newblock {\em Monitor-Based Statistical Model Checking for Weighted Metric
+  Temporal Logic}, pages 168--182.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2012.
+
+\bibitem{david2012statistical}
+Alexandre David, Dehui Du, Kim~G Larsen, Axel Legay, Marius Miku{\v{c}}ionis,
+  Danny~B{\o}gsted Poulsen, and Sean Sedwards.
+\newblock Statistical model checking for stochastic hybrid systems.
+\newblock {\em arXiv preprint arXiv:1208.3856}, 2012.
+
+\bibitem{david2015uppaal}
+Alexandre David, Kim~G Larsen, Axel Legay, Marius Miku{\v{c}}ionis, and
+  Danny~B{\o}gsted Poulsen.
+\newblock Uppaal smc tutorial.
+\newblock {\em International Journal on Software Tools for Technology
+  Transfer}, 17(4):397--415, 2015.
+
+\bibitem{dwyer1998property}
+Matthew~B Dwyer, George~S Avrunin, and James~C Corbett.
+\newblock Property specification patterns for finite-state verification.
+\newblock In {\em Proceedings of the second workshop on Formal methods in
+  software practice}, pages 7--15. ACM, 1998.
+
+\bibitem{sps1999}
+Matthew~B Dwyer, George~S Avrunin, and James~C Corbett.
+\newblock {Patterns in Property Specifications for Finite-state Verification}.
+\newblock In {\em Software Engineering, 1999. Proceedings of the 1999
+  International Conference on}, pages 411--420. IEEE, 1999.
+
+\bibitem{fantechi1994assisting}
+Alessandro Fantechi, Stefania Gnesi, Gioia Ristori, Michele Carenini, Massimo
+  Vanocchi, and Paolo Moreschini.
+\newblock Assisting requirement formalization by means of natural language
+  translation.
+\newblock {\em Formal Methods in System Design}, 4(3):243--263, 1994.
+
+\bibitem{filipovikj2014reassessing}
+Predrag Filipovikj, Mattias Nyberg, and Guillermo Rodriguez-Navas.
+\newblock Reassessing the pattern-based approach for formalizing requirements
+  in the automotive domain.
+\newblock In {\em 2014 IEEE 22nd International Requirements Engineering
+  Conference (RE)}, pages 444--450. IEEE, 2014.
+
+\bibitem{Grosu2005}
+Radu Grosu and Scott~A. Smolka.
+\newblock {\em Monte Carlo Model Checking}, pages 271--286.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2005.
+
+\bibitem{grunske2008specification}
+Lars Grunske.
+\newblock Specification patterns for probabilistic quality properties.
+\newblock In {\em 2008 ACM/IEEE 30th International Conference on Software
+  Engineering}, pages 31--40. IEEE, 2008.
+
+\bibitem{heitmeyer1995consistency}
+Constance Heitmeyer, Bruce Labaw, and Daniel Kiskis.
+\newblock Consistency checking of scr-style requirements specifications.
+\newblock In {\em Requirements Engineering, 1995., Proceedings of the Second
+  IEEE International Symposium on}, pages 56--63. IEEE, 1995.
+
+\bibitem{heitmeyer2002software}
+Constance~L Heitmeyer.
+\newblock Software cost reduction.
+\newblock {\em Encyclopedia of software engineering}, 2002.
+
+\bibitem{heitmeyer1996automated}
+Constance~L Heitmeyer, Ralph~D Jeffords, and Bruce~G Labaw.
+\newblock Automated consistency checking of requirements specifications.
+\newblock {\em ACM Transactions on Software Engineering and Methodology
+  (TOSEM)}, 5(3):231--261, 1996.
+
+\bibitem{holz2006research}
+Hilary~J Holz, Anne Applin, Bruria Haberman, Donald Joyce, Helen Purchase, and
+  Catherine Reed.
+\newblock Research methods in computing: What are they, and how should we teach
+  them?
+\newblock In {\em ACM SIGCSE Bulletin}, volume~38, pages 96--114. ACM, 2006.
+
+\bibitem{jiang16stateflowverification}
+Y.~Jiang, Y.~Yang, H.~Liu, H.~Kong, M.~Gu, J.~Sun, and L.~Sha.
+\newblock {From Stateflow Simulation to Verified Implementation: A Verification
+  Approach and A Real-Time Train Controller Design}.
+\newblock In {\em RTAS'16}, pages 1--11, April 2016.
+
+\bibitem{bp2012}
+Vegard Johannessen.
+\newblock {CESAR-text vs. Boilerplates: What is More Effcient-requirements?
+  Written as Free Text or Using Boilerplates (templates)?}
+\newblock 2012.
+
+\bibitem{spsrt2005}
+Sascha Konrad and Betty~HC Cheng.
+\newblock {Real-time Specification Patterns}.
+\newblock In {\em Proceedings of the 27th international conference on Software
+  engineering}, pages 372--381. ACM, 2005.
+
+\bibitem{konrad2005real}
+Sascha Konrad and Betty~HC Cheng.
+\newblock Real-time specification patterns.
+\newblock In {\em Proceedings of the 27th international conference on Software
+  engineering}, pages 372--381. ACM, 2005.
+
+\bibitem{legay2015statistical}
+A.~Legay and L.M. Traonouez.
+\newblock {Statistical Model Checking of Simulink Models with Plasma Lab}.
+\newblock In {\em FTSCS'15}, pages 259--264. Springer, 2015.
+
+\bibitem{leitner2008technical}
+Florian Leitner.
+\newblock Technical report evaluation of the matlab simulink design verifier
+  versus the model checker spin.
+\newblock 2008.
+
+\bibitem{manamcheri2011step}
+K.~Manamcheri, S.~Mitra, S.~Bak, and M~Caccamo.
+\newblock {A Step Towards Verification and Synthesis From Simulink/Stateflow
+  Models}.
+\newblock In {\em HSCC'11}, pages 317--318. ACM, 2011.
+
+\bibitem{ears2010}
+Alistair Mavin and Philip Wilkinson.
+\newblock {Big Ears (The Return of "Easy Approach to Requirements
+  Engineering")}.
+\newblock In {\em {2010 18th IEEE International Requirements Engineering
+  Conference}}, pages 277--282. IEEE, sep 2010.
+
+\bibitem{ears2009}
+Alistair Mavin, Philip Wilkinson, Adrian Harwood, and Mark Novak.
+\newblock {Easy Approach to Requirements Syntax (EARS)}.
+\newblock In {\em 2009 17th IEEE International Requirements Engineering
+  Conference}, pages 317--322. IEEE, aug 2009.
+
+\bibitem{meenakshi2006tool}
+B~Meenakshi, A.~Bhatnagar, and S.~Roy.
+\newblock {Tool for Translating Simulink Models into Input Language of a Model
+  Checker}.
+\newblock In {\em ICFEM}, pages 606--620. Springer, 2006.
+
+\bibitem{miller2009bridging}
+Steven~P. Miller.
+\newblock {Bridging the Gap Between Model-Based Development and Model
+  Checking}.
+\newblock In {\em TACAS}, pages 443--453. Springer, 2009.
+
+\bibitem{sps2012}
+Amalinda Post and Jochen Hoenicke.
+\newblock Formalization and analysis of real-time requirements: a feasibility
+  study at bosch.
+\newblock In {\em Verified Software: Theories, Tools, Experiments}, pages
+  225--240. Springer, 2012.
+
+\bibitem{post2011rt}
+Amalinda Post, Jochen Hoenicke, and Andreas Podelski.
+\newblock rt-inconsistency: a new property for real-time requirements.
+\newblock In {\em International Conference on Fundamental Approaches to
+  Software Engineering}, pages 34--49. Springer, 2011.
+
+\bibitem{sps2011}
+Amalinda Post, Igor Menzel, and Andreas Podelski.
+\newblock {Applying Restricted English Grammar on Automotive Requirements: Does
+  It Work? A Case Study}.
+\newblock In {\em Requirements Engineering: Foundation for Software Quality},
+  pages 166--180. Springer, 2011.
+
+\bibitem{ratnaparkhi1998maximum}
+Adwait Ratnaparkhi.
+\newblock {\em Maximum entropy models for natural language ambiguity
+  resolution}.
+\newblock PhD thesis, University of Pennsylvania, 1998.
+
+\bibitem{rauw1993simulink}
+Marc~O Rauw.
+\newblock A simulink environment for flight dynamics and control
+  analysis-application to the dhc-2'beaver'.
+\newblock {\em Delft University of Technology}, pages 121--138, 1993.
+
+\bibitem{Sen2005}
+Koushik Sen, Mahesh Viswanathan, and Gul Agha.
+\newblock {\em On Statistical Model Checking of Stochastic Systems}, pages
+  266--280.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2005.
+
+\bibitem{wasow2005puzzle}
+Thomas Wasow, Amy Perfors, and David Beaver.
+\newblock The puzzle of ambiguity.
+\newblock {\em Morphology and the web of grammar: Essays in memory of Steven G.
+  Lapointe}, pages 265--282, 2005.
+
+\bibitem{westman2016verification}
+Jonas Westman, Guillermo Rodriguez-Navas, and Mattias Nyberg.
+\newblock Verification of requirements in simulink design verifier and
+  uppaal-an industrial case study, 2016.
+
+\bibitem{wyman2007car}
+Oliver Wyman.
+\newblock Car innovation 2015: A comprehensive study on innovation in the
+  automotive industry.
+\newblock {\em Oliver Wyman Report}, 2007.
+
+\end{thebibliography}

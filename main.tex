@@ -1,54 +1,193 @@
 \documentclass{NSF}
 
-\graphicspath{{figures/}}
+%\usepackage{latex8}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{tabularx}
+\usepackage[T1]{fontenc}
+\usepackage{verbatim}
+\usepackage{enumerate}
+\usepackage{amsmath,amssymb}
+\usepackage{pdfpages}
+\usepackage{amsthm}
+\usepackage{subcaption}
+\usepackage{tikz}
+%\usetikzlibrary{timeline}
+\usepackage{wrapfig}
+\usepackage{pdfpages}
+\usepackage{xsavebox}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\setcounter{lemma}{0}
+\newtheorem{defin}{Definition}
+\setcounter{defin}{0}%%
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,allcolors=blue}
+\usepackage{hypcap}
+\usepackage{multirow}
+%
+%dummy text
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{pgfgantt}
+\usepackage{fancyvrb}
+\usepackage{array}
+\usepackage{hhline}
+\usepackage[math]{cellspace}
+\usepackage{mathtools}
+\usepackage{cite}
+\usetikzlibrary{positioning}
+
+\cellspacetoplimit 4pt
+\cellspacebottomlimit 4pt
+\newcommand{\ignore}[2]{\hspace{0in}#2}
+\newcommand*{\tabulardef}[3]{\begin{tabular}[t]{@{}m{1.75cm}m{\dimexpr\linewidth-#1}@{}}
+		#2 & #3
+\end{tabular}}
+\newcommand{\simincom}[1]{\textcolor[rgb]{0.87,0.28,0.00}{\noindent$<$\textbf{Nesredin: }\textit{#1}$>$}}
+\newcommand{\dagcom}[1]{\textcolor[rgb]{0.87,0.28,0.00}{\noindent$<$\textbf{Cristina: }\textit{#1}$>$}}
+
+\graphicspath{ {pics/} }
+
+% research goals Commands
+\newcommand{\og}[1]{\paragraph{Overall goal: }~\parbox[c]{0.7\textwidth}{#1}\\}
+\newcounter{rgcounter}
+\newcommand{\rg}{%
+	\stepcounter{rgcounter}%
+	Research Goal \thergcounter: }
+
+% research contribution command
+\newcounter{rccounter}
+\newcommand{\rc}{%
+	\stepcounter{rccounter}%
+	Contribution \therccounter}
+\newcommand{\cc}[1]{%
+	\stepcounter{rccounter}%
+	\paragraph{Contribution \therccounter:}\parbox[c]{0.7\textwidth}{#1}\\}
+
+\newcommand{\ogl}[1]{
+	Overall Goal:
+	\fcolorbox{gray}{light-gray}{
+		\begin{minipage}[t]{0.7\textwidth}
+			#1
+	\end{minipage}}
+}
+\newcommand{\rgl}[1]{
+	\rg
+	\fcolorbox{gray}{light-gray}{
+		\begin{minipage}[t]{0.7\textwidth}
+			#1
+	\end{minipage}}
+}
+\usetikzlibrary{external}
+% \tikzexternalize[mode=list and make]
+\tikzset{
+	png export/.style={
+		% First we call ImageMagick; change settings to requirements
+		external/system call/.add={}{; convert -density 300 -transparent white "\image.pdf" "\image.png"},
+		% Now we force the PNG figure to be used instead of the PDF
+		/pgf/images/external info,
+		/pgf/images/include external/.code={
+			\includegraphics[width=\pgfexternalwidth,height=\pgfexternalheight]{##1.png}
+		},
+	}
+}
+
+
+\definecolor{light-gray}{gray}{0.95}
+\newenvironment{researchgoal}
+{\begin{center}}
+	{\end{center}}
+% papers command
+\newcommand{\pp}{Paper cont.}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+
+\graphicspath{{pics/}}
+\sloppy
 
 \begin{document}
+\begin{center}
+	\vspace{4cm}
+	
+	\LARGE \textbf {DOCTORAL THESIS PROPOSAL} \\[3cm]
+	
+	%\LARGE \textbf {Developing Data Aggregation Support for Real-Time Applications} \\[2cm]
+	\LARGE \textbf {Design of Assured and Efficient Safety-critical Embedded Systems} \\[2cm]
+	
+	\normalsize{Nesredin Mahmud } \\
+	School of Innovation, Design and Engineering (IDT) \\
+	M\"{a}lardalen University \\
+	nesredin.mahmud@mdh.se \\
+	October 2018\\
+	
+	\vspace{3cm}
+	
+	\begin{minipage}{1.0\textwidth}
+		\begin{flushright} \small
+			\textbf{Main Supervisor: Cristina Seceleanu} \\
+			\textbf{Co-supervisor: Guillermo Rodriguez-Navas}
+		\end{flushright}
+	\end{minipage}
+	
+	\vfill
+	
+	%empty page after the title
+	
+\end{center}
+
+\newpage
+
+% abstract page
+\begin{abstract}
+Safety-critical requirements specifications should be readable, unambiguous and comprehensible. Likewise, the safety-critical software should be analyzed rigorously to assure its conformance to the specifications, and in particular the functional and timing correctness. In distributed computing, e.g., electrical/electronic vehicular system, the reliability of the safety-critical system should be maximized due to higher riks of failures which requires additional computation, and critical system resrouces such as power and energy. In order to accommodate current and feature software functionality, the distributed safety-critical software should be mapped to hardware efficiently while meeting the timing and reliability requirements.
+
+In this thesis, we propose formal methods and optimization techniques to assure improved quality of requirements specifications and software design, and to efficiently map software functionality to hardware. Contributions of the thesis are: (i) a constrained and domain specific language of embedded systems requirement \textit{ReSA}; (ii) transformation of the software design, which is modeled in Simulink, to a network of stochastic timed automata via design patterns, and analysis of the latter using statistical model checking; (iii) power-effcient mapping of software to hardware while preserving the timing and reliability constraints of the software via integer-linear programming and meta-heuristic. Our proposed solutions are evaluated on automotive use cases such as the adjustable-speed limiter (ASL) and the brake-by-wire (BBW) systems from Volvo Group Trucks Technology (VGTT), and on an engine management benchmark from Bosch.
+\end{abstract}
+
+\newpage
 
 % A. Cover Sheet
 % A number of the boxes contained on the Cover Sheet are
 % electronically pre-filled as part of the FastLane login process
 % Complete the rest of your info there
 
-% B. Project Summary
-\title{NSF Proposal Template}
-\newsection{B}
-\input{sections/summary}
+\section{Introduction}
+\label{section:introduction}
+\input{sections/introduction.tex}
 
-% C. Table of Contents 
-% A Table of Contents is automatically generated for the proposal by FastLane
+\section{Research Description and Thesis Contributions}
+\label{section:goals}
+\input{sections/goals.tex}
 
-% D. Project Description
-\newpage\newsection{D}
-\input{sections/description}
+\section{Research Methodology}
+\label{section:methods}
+\input{sections/method.tex}
 
-% E. References Cited
-\newpage\newsection{E}
-\renewcommand\refname{References Cited}
-\bibliography{references}
-% I prefer to use the IEEE bibliography style. 
-% That's  NOT required by the NSF guidelines. 
-% Feel Free to use whatever style you prefer
-\bibliographystyle{IEEEtran}
+\section{Thesis Outline}
+\label{section:outline}
+\input{sections/outline.tex}
 
-% F. Biographical Sketch(es)
-\newpage\newsection{F}
-\input{sections/bio}
+\section{Progress and Time Plan}
+\label{section:progress}
+\input{sections/progress.tex}
 
-% G. Budget Justification
-\newpage\newsection{G}
-\input{sections/budget}
+\section{Third Cycle Outcome}
+\label{section:thirdcycle}
+\input{sections/thirdcycle.tex}
 
-%  H. Current and Pending Support
-\newpage\newsection{H}
-\input{sections/support}
 
-% I. Facilities, Equipment and Other Resources
-\newpage\newsection{I}
-\input{sections/resources}
+\section{Related Work}
+\label{section:related}
+\input{sections/relatedwork.tex}
 
-% J. Special Information and Supplementary Documentation
-\newpage\newsection{J}
-\input{sections/data}		% Data Management Plan (Required)
-%\input{sections/postdoc} % Postdoctoral Researcher Mentoring Plan (if applicable)
+\section{Conclusions and Future Work}
+\label{section:conclusions}
+\input{sections/conclusion.tex}
+
+%\nocite{*}
+\bibliographystyle{plain}
+\bibliography{proposal}
 
 \end{document}

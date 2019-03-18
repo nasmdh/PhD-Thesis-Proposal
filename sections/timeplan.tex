@@ -1,0 +1,64 @@
+\definecolor{barblue}{RGB}{153,204,254}
+\definecolor{groupblue}{RGB}{51,102,254}
+\definecolor{linkred}{RGB}{165,0,33}
+\renewcommand\sfdefault{phv}
+\renewcommand\mddefault{mc}
+\renewcommand\bfdefault{bc}
+\setganttlinklabel{s-s}{START-TO-START}
+\setganttlinklabel{f-s}{FINISH-TO-START}
+\setganttlinklabel{f-f}{FINISH-TO-FINISH}
+
+\begin{ganttchart}[
+canvas/.append style={fill=none, draw=black!5, line width=.75pt},
+hgrid style/.style={draw=black!5, line width=.75pt},
+vgrid={*1{draw=black!5, line width=.75pt}},
+today=4,
+today rule/.style={
+draw=black!64,
+dash pattern=on 3.5pt off 4.5pt,
+line width=1.5pt
+},
+today label font=\small\bfseries,
+title/.style={draw=none, fill=none},
+title label font=\bfseries\footnotesize\sffamily,
+title label node/.append style={below=7pt},
+include title in canvas=false,
+bar label font=\mdseries\small\color{black!70},
+bar label node/.append style={left=2cm},
+bar/.append style={draw=none, fill=black!63},
+bar incomplete/.append style={fill=barblue},
+bar progress label font=\mdseries\footnotesize\color{black!70},
+group incomplete/.append style={fill=groupblue},
+group left shift=0,
+group right shift=0,
+group height=.5,
+group peaks tip position=0,
+group label node/.append style={left=.6cm},
+group progress label font=\bfseries\small,
+link/.style={-latex, line width=1.5pt, linkred},
+link label font=\scriptsize\bfseries,
+link label node/.append style={below left=-2pt and 0pt}
+]{1}{15}
+\gantttitle{2016}{8} \gantttitle{2017}{7} \\
+\gantttitle[
+title label node/.append style={below left=7pt and -3pt}
+]{WEEKS:}{0}
+\gantttitlelist{44,...,52}{1}
+\gantttitlelist{1,...,7}{1} \\
+\ganttgroup{}{1}{15} \\
+\ganttbar[
+%progress=60,
+name=A1
+]{\textbf{1.} \begin{tabular}{@{}l@{}}Work on Paper D and Submit to \\COMPSAC 2017\end{tabular}}{1}{9} \\
+\ganttbar[
+%progress=0,
+name=A2
+]{\textbf{3.} Notification on Paper D}{13}{13} \\[grid]
+\ganttbar[
+%progress=0,
+name=A3
+]{\textbf{4.} \begin{tabular}{@{}l@{}}If Paper D is rejected, \\submit to CSL\end{tabular}}{15}{15} \\[grid]
+
+\ganttlink[link type=f-s]{A1}{A2}
+\ganttlink[link type=f-s]{A2}{A3}
+\end{ganttchart}

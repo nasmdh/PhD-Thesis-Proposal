@@ -1,0 +1,198 @@
+\documentclass[10pt]{article}
+%\renewcommand{\baselinestretch}{0.975}
+\usepackage{latex8}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{tabularx}
+\usepackage[T1]{fontenc}
+\usepackage{verbatim}
+\usepackage{enumerate}
+\usepackage{amsmath,amssymb}
+\usepackage{pdfpages}
+\usepackage{amsthm}
+\usepackage{subcaption}
+\usepackage{tikz}
+%\usetikzlibrary{timeline}
+\usepackage{wrapfig}
+\usepackage{pdfpages}
+\usepackage{xsavebox}
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\setcounter{lemma}{0}
+\newtheorem{defin}{Definition}
+\setcounter{defin}{0}
+% table of contents
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,allcolors=blue}
+\usepackage{hypcap}
+\usepackage{multirow}
+
+%dummy text
+\usepackage[english]{babel}
+\usepackage{blindtext}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{pgfgantt}
+\usepackage{fancyvrb}
+\usepackage{array}
+\usepackage{hhline}
+\usepackage[math]{cellspace}
+\usepackage{mathtools}
+\usepackage{cite}
+\usetikzlibrary{positioning}
+
+\cellspacetoplimit 4pt
+\cellspacebottomlimit 4pt
+\newcommand{\ignore}[2]{\hspace{0in}#2}
+\newcommand*{\tabulardef}[3]{\begin{tabular}[t]{@{}m{1.75cm}m{\dimexpr\linewidth-#1}@{}}
+    #2 & #3
+  \end{tabular}}
+\newcommand{\simincom}[1]{\textcolor[rgb]{0.87,0.28,0.00}{\noindent$<$\textbf{Nesredin: }\textit{#1}$>$}}
+\newcommand{\dagcom}[1]{\textcolor[rgb]{0.87,0.28,0.00}{\noindent$<$\textbf{Cristina: }\textit{#1}$>$}}
+
+\graphicspath{ {pics/} }
+
+% research goals Commands
+\newcommand{\og}[1]{\paragraph{Overall goal: }~\parbox[c]{0.7\textwidth}{#1}\\}
+\newcounter{rgcounter}
+\newcommand{\rg}{%
+\stepcounter{rgcounter}%
+Research Goal \thergcounter: }
+
+% research contribution command
+\newcounter{rccounter}
+\newcommand{\rc}{%
+\stepcounter{rccounter}%
+Contribution \therccounter}
+\newcommand{\cc}[1]{%
+\stepcounter{rccounter}%
+\paragraph{Contribution \therccounter:}\parbox[c]{0.7\textwidth}{#1}\\}
+
+\newcommand{\ogl}[1]{
+Overall Goal:
+\fcolorbox{gray}{light-gray}{
+          \begin{minipage}[t]{0.7\textwidth}
+    #1
+    \end{minipage}}
+}
+\newcommand{\rgl}[1]{
+\rg
+\fcolorbox{gray}{light-gray}{
+          \begin{minipage}[t]{0.7\textwidth}
+    #1
+    \end{minipage}}
+}
+\usetikzlibrary{external}
+% \tikzexternalize[mode=list and make]
+\tikzset{
+    png export/.style={
+        % First we call ImageMagick; change settings to requirements
+        external/system call/.add={}{; convert -density 300 -transparent white "\image.pdf" "\image.png"},
+        % Now we force the PNG figure to be used instead of the PDF
+        /pgf/images/external info,
+        /pgf/images/include external/.code={
+            \includegraphics[width=\pgfexternalwidth,height=\pgfexternalheight]{##1.png}
+        },
+    }
+}
+
+
+\definecolor{light-gray}{gray}{0.95}
+\newenvironment{researchgoal}
+{\begin{center}}
+{\end{center}}
+% papers command
+\newcommand{\pp}{Paper cont.}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\begin{document}
+
+%-------------------------------------------------------------------------
+% take the % away on next line to produce the final camera-ready version
+%\pagestyle{empty}
+
+%-------------------------------------------------------------------------
+\begin{center}
+\vspace{4cm}
+
+\LARGE \textbf {DOCTORAL THESIS PROPOSAL} \\[3cm]
+
+%\LARGE \textbf {Developing Data Aggregation Support for Real-Time Applications} \\[2cm]
+\LARGE \textbf {Design of Assured and Efficient Safety-critical Embedded Systems} \\[2cm]
+
+\normalsize{Nesredin Mahmud } \\
+School of Innovation, Design and Engineering (IDT) \\
+M\"{a}lardalen University \\
+nesredin.mahmud@mdh.se \\
+October 2018\\
+
+\vspace{3cm}
+
+\begin{minipage}{1.0\textwidth}
+	\begin{flushright} \small
+		\textbf{Main Supervisor: Cristina Seceleanu} \\
+		\textbf{Co-supervisor: Guillermo Rodriguez-Navas}
+	\end{flushright}
+\end{minipage}
+
+\vfill
+
+%empty page after the title
+
+\end{center}
+
+\newpage
+
+% abstract page
+\begin{abstract}
+Safety-critical systems have to fulfill functional, timing and reliability requirements, which makes their design particularly challenging. In fact, several safety standards including ISO 26262 for the automotive domain,  MIL-STD-2167/DO-178C for avionics, etc., recommend systematic processes and techniques to be applied at various stages of system development.  In order to minimize cost and improve software quality, systems should be analyzed at earlier stages before implementation. Model-based development and formal techniques are promising solutions in this regard and have been employed to manage complexity and to analyze system abstractions at early development stages. Nevertheless, the application of formal techniques has been limited in practice mainly due to technical challenges such as their scalability and usability. 
+
+The research presented in this thesis provides formal techniques and tools to address the above challenges during requirements specification, software design, and software allocation phases of multirate embedded systems. In multirate systems, certain operations must be executed periodically, and each operation is executed at its own rate. Specifically, the multiple sampling times cause various timed paths of signal propagation in the software application, thus resulting in different delay semantics (or interpretations). Multirate designs are frequently employed in automotive, industrial automation, avionics domains. 
+
+To address the requirements phase, in the thesis we propose a domain-specific requirements specification language called ReSA, as well as consistency checking techniques in order to improve specifications, before their use in system design and implementation. During the system design phase, system designs are refined via software design units often specified in Simulink, which is a graphical programming environment for modeling and analyzing multidomain systems, which is frequently employed in industry. To check that Simulink designs conform to the system's functional and timing requirements, while addressing scalability, we provide a formal analysis technique of the former via statistical model checking. The method relies on patterns that formalize discrete- and continuous-time Simulink blocks into stochastic timed automata, while preserving the block execution order generated by Simulink. Next, we also provide integer-linear-programming-based allocation methods of software applications, to optimize power consumption of multirate systems while guaranteeing satisfiability of timing and reliability requirements, and design and hardware constraints. To automate the above steps, we also propose tools for requirements specification and analysis, as well as for the transformation of Simulink models into stochastic timed automata networks for statistical model checking. Our proposed methods and tools are validated on automotive industrial use cases. 
+\end{abstract}
+
+\newpage
+\tableofcontents
+\newpage
+
+\section{Introduction}
+\label{section:introduction}
+\input{introduction.tex}
+
+\section{Research Description and Thesis Contributions}
+\label{section:goals}
+\input{goals.tex}
+
+\section{Research Methodology}
+\label{section:methods}
+\input{method.tex}
+
+\section{Thesis Outline}
+\label{section:outline}
+\input{outline.tex}
+
+\section{Progress and Time Plan}
+\label{section:progress}
+\input{progress.tex}
+
+\section{Third Cycle Outcome}
+\label{section:thirdcycle}
+\input{thirdcycle.tex}
+
+
+\section{Related Work}
+\label{section:related}
+\input{relatedwork.tex}
+
+\section{Conclusions and Future Work}
+\label{section:conclusions}
+\input{conclusion.tex}
+
+%\nocite{*}
+\bibliographystyle{plain}
+\bibliography{proposal}
+
+\end{document}
+

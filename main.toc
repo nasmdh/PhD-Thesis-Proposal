@@ -1,0 +1,36 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}% 
+\contentsline {section}{\numberline {2}Research Description and Thesis Contributions}{6}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Research Goals}{7}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Papers Included in the Thesis}{9}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Paper A}{10}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Paper B}{11}{subsubsection.2.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Paper C}{12}{subsubsection.2.2.3}% 
+\contentsline {subsubsection}{\numberline {2.2.4}Paper D}{13}{subsubsection.2.2.4}% 
+\contentsline {subsubsection}{\numberline {2.2.5}Paper E}{14}{subsubsection.2.2.5}% 
+\contentsline {subsubsection}{\numberline {2.2.6}Paper F}{15}{subsubsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.3}Thesis Contributions}{15}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Contribution 1 - The ReSA Language}{15}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Contribution 2 - Formal Semantics of the ReSA Language}{17}{subsubsection.2.3.2}% 
+\contentsline {paragraph}{Semantics in Boolean logic: }{17}{subsubsection.2.3.2}% 
+\contentsline {paragraph}{Semantics in description logic: }{18}{subsubsection.2.3.2}% 
+\contentsline {subsubsection}{\numberline {2.3.3}Contribution 3 - Consistency Checking of Requirements Specifications}{18}{subsubsection.2.3.3}% 
+\contentsline {subsubsection}{\numberline {2.3.4}Contribution 4 - The ReSA Toolchain}{19}{subsubsection.2.3.4}% 
+\contentsline {subsubsection}{\numberline {2.3.5}Contribution 5 - Efficient Allocation of Multirate Software Application onto Network of Computation Nodes}{20}{subsubsection.2.3.5}% 
+\contentsline {paragraph}{System Model. }{21}{figure.7}% 
+\contentsline {paragraph}{Allocation Problem. }{21}{figure.7}% 
+\contentsline {paragraph}{Exact Method. }{21}{equation.2.4}% 
+\contentsline {paragraph}{Meta-heuristics Method.}{21}{figure.8}% 
+\contentsline {subsubsection}{\numberline {2.3.6}Contribution 6 - Formal Analysis of Multirate Simulink Models}{21}{subsubsection.2.3.6}% 
+\contentsline {section}{\numberline {3}Research Methodology}{24}{section.3}% 
+\contentsline {section}{\numberline {4}Thesis Outline}{26}{section.4}% 
+\contentsline {section}{\numberline {5}Progress and Time Plan}{27}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Courses}{27}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Time Plan}{27}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Thesis Opponent and Committee}{29}{subsection.5.3}% 
+\contentsline {section}{\numberline {6}Third Cycle Outcome}{29}{section.6}% 
+\contentsline {section}{\numberline {7}Related Work}{33}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Requirements Specification and Analysis}{33}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Optimal Allocation of Software Architectures}{34}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}Formal Analysis of Simulink Models}{34}{subsection.7.3}% 
+\contentsline {section}{\numberline {8}Conclusions and Future Work}{35}{section.8}% 

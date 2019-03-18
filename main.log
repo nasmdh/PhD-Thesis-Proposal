@@ -1,0 +1,1809 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.30)  18 MAR 2019 17:20
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+(NSF.cls
+Document Class: NSF 
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geom
+etry-de/geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ob
+erdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ob
+erdiek/ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/if
+xetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geom
+etry/geometry.cfg"))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
+rref/hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ob
+erdiek/hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ob
+erdiek/hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
+rref/pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count93
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mi
+ktex/hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count94
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/
+url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count95
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+Package hyperref Info: Driver: hpdftex.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
+rref/hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics-def/pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fanc
+yhdr/fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip44
+\f@nch@O@elh=\skip45
+\f@nch@O@erh=\skip46
+\f@nch@O@olh=\skip47
+\f@nch@O@orh=\skip48
+\f@nch@O@elf=\skip49
+\f@nch@O@erf=\skip50
+\f@nch@O@olf=\skip51
+\f@nch@O@orf=\skip52
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titl
+ecaps/titlecaps.sty"
+Package: titlecaps 2015/01/30 V1.2 Routines for setting rich-text input into Ti
+tling Caps
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ifne
+xtok/ifnextok.sty"
+Package: ifnextok 2011/06/27 v0.3 test next token (UL)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@lcword@index=\count101
+\c@word@count=\count102
+\c@lc@words=\count103
+\c@dia@count=\count104
+\c@arg@@@index=\count105
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/titl
+esec/titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box27
+\beforetitleunit=\skip53
+\aftertitleunit=\skip54
+\ttl@plus=\dimen117
+\ttl@minus=\dimen118
+\ttl@toksa=\toks16
+\titlewidth=\dimen119
+\titlewidthlast=\dimen120
+\titlewidthfirst=\dimen121
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcol
+or/xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/colo
+rtbl/colortbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen122
+\ar@mcellbox=\box28
+\extrarowheight=\dimen123
+\NC@list=\toks17
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box29
+)
+\everycr=\toks18
+\minrowclearance=\skip57
+)
+\rownum=\count106
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcol
+or/svgnam.def"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/tabularx.sty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+\TX@col@width=\dimen124
+\TX@old@table=\dimen125
+\TX@old@col=\dimen126
+\TX@target=\dimen127
+\TX@delta=\dimen128
+\TX@cols=\count107
+\TX@ftn=\toks19
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks20
+\verbatim@line=\toks21
+\verbatim@in@stream=\read1
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
+ath/amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
+ath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
+ath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen129
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
+ath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen130
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsm
+ath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count108
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count109
+\leftroot@=\count110
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count111
+\DOTSCASE@=\count112
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count113
+\c@MaxMatrixCols=\count114
+\dotsspace@=\muskip11
+\c@parentequation=\count115
+\dspbrk@lvl=\count116
+\tag@help=\toks24
+\row@=\count117
+\column@=\count118
+\maxfields@=\count119
+\andhelp@=\toks25
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks26
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
+onts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
+onts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfp
+ages/pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count120
+\calc@Bcount=\count121
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count122
+\calc@Cskip=\skip63
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eso-
+pic/eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen140
+\AM@pageheight=\dimen141
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pdfp
+ages/pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box32
+\AM@global@opts=\toks28
+\AM@toc@title=\toks29
+\c@AM@survey=\count123
+\AM@templatesizebox=\box33
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsc
+ls/amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks35
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt
+ion/subcaption.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt
+ion/caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt
+ion/caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen142
+\captionmargin@=\dimen143
+\captionwidth=\dimen144
+\caption@tempdima=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+)
+\c@caption@flags=\count124
+\c@ContinuedFloat=\count125
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count126
+\c@subtable=\count127
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+frontendlayer/tikz.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+basiclayer/pgf.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+utilities/pgfrcs.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfutil-common.tex"
+\pgfutil@everybye=\toks36
+\pgfutil@tempdima=\dimen149
+\pgfutil@tempdimb=\dimen150
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfutil-common-lists.tex"))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfutil-latex.def"
+\pgfutil@abb=\box34
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms/e
+veryshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfrcs.code.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/pgf.revision.tex")
+Package: pgfrcs 2019/01/05 v3.1 (3.1)
+))
+Package: pgf 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+basiclayer/pgfcore.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+systemlayer/pgfsys.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgfsys.code.tex"
+Package: pgfsys 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks37
+\pgfkeys@temptoks=\toks38
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks39
+))
+\pgf@x=\dimen151
+\pgf@y=\dimen152
+\pgf@xa=\dimen153
+\pgf@ya=\dimen154
+\pgf@xb=\dimen155
+\pgf@yb=\dimen156
+\pgf@xc=\dimen157
+\pgf@yc=\dimen158
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count128
+\c@pgf@countb=\count129
+\c@pgf@countc=\count130
+\c@pgf@countd=\count131
+\t@pgf@toka=\toks40
+\t@pgf@tokb=\toks41
+\t@pgf@tokc=\toks42
+\pgf@sys@id@count=\count132
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgf.cfg"
+File: pgf.cfg 2019/01/05 v3.1 (3.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/01/05 v3.1 (3.1)
+)))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/01/05 v3.1 (3.1)
+\pgfsyssoftpath@smallbuffer@items=\count133
+\pgfsyssoftpath@bigbuffer@items=\count134
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/systemlayer/pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/01/05 v3.1 (3.1)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcore.code.tex"
+Package: pgfcore 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmath.code.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathcalc.code.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathutil.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen159
+\pgfmath@count=\count135
+\pgfmath@box=\box35
+\pgfmath@toks=\toks43
+\pgfmath@stack@operand=\toks44
+\pgfmath@stack@operation=\toks45
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.code.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.basic.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.trigonometric.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.random.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.comparison.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.base.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.round.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.misc.code.tex")
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfunctions.integerarithmetics.code.tex")))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count136
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@picminx=\dimen160
+\pgf@picmaxx=\dimen161
+\pgf@picminy=\dimen162
+\pgf@picmaxy=\dimen163
+\pgf@pathminx=\dimen164
+\pgf@pathmaxx=\dimen165
+\pgf@pathminy=\dimen166
+\pgf@pathmaxy=\dimen167
+\pgf@xx=\dimen168
+\pgf@xy=\dimen169
+\pgf@yx=\dimen170
+\pgf@yy=\dimen171
+\pgf@zx=\dimen172
+\pgf@zy=\dimen173
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@path@lastx=\dimen174
+\pgf@path@lasty=\dimen175
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@shorten@end@additional=\dimen176
+\pgf@shorten@start@additional=\dimen177
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count137
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/01/05 v3.1 (3.1)
+\pgflinewidth=\dimen178
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@pt@x=\dimen179
+\pgf@pt@y=\dimen180
+\pgf@pt@temp=\dimen181
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/01/05 v3.1 (3.1)
+\pgfarrowsep=\dimen182
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@max=\dimen183
+\pgf@sys@shading@range@num=\count138
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/01/05 v3.1 (3.1)
+\pgfexternal@startupbox=\box39
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/basiclayer/pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/modules/pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/01/05 v3.1 (3.1)
+\pgfnodeparttextbox=\box40
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/modules/pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+compatibility/pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/01/05 v3.1 (3.1)
+\pgf@nodesepstart=\dimen184
+\pgf@nodesepend=\dimen185
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+compatibility/pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/01/05 v3.1 (3.1)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+utilities/pgffor.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+utilities/pgfkeys.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfkeys.code.tex"))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+math/pgfmath.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmath.code.tex"))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgffor.code.tex"
+Package: pgffor 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/math/pgfmath.code.tex")
+\pgffor@iter=\dimen186
+\pgffor@skip=\dimen187
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/tikz.code.tex"
+Package: tikz 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/libraries/pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@plot@mark@count=\count139
+\pgfplotmarksize=\dimen188
+)
+\tikz@lastx=\dimen189
+\tikz@lasty=\dimen190
+\tikz@lastxsaved=\dimen191
+\tikz@lastysaved=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box41
+\tikz@figbox@bg=\box42
+\tikz@tempbox=\box43
+\tikz@tempbox@bg=\box44
+\tikztreelevel=\count140
+\tikznumberofchildren=\count141
+\tikznumberofcurrentchild=\count142
+\tikz@fig@count=\count143
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/modules/pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/01/05 v3.1 (3.1)
+\pgfmatrixcurrentrow=\count144
+\pgfmatrixcurrentcolumn=\count145
+\pgf@matrix@numberofcolumns=\count146
+)
+\tikz@expandcount=\count147
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/01/05 v3.1 (3.1)
+)))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/wrap
+fig/wrapfig.sty"
+\wrapoverhang=\dimen195
+\WF@size=\dimen196
+\c@WF@wrappedlines=\count148
+\WF@box=\box45
+\WF@everypar=\toks48
+Package: wrapfig 2003/01/31  v 3.6
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xsav
+ebox/xsavebox.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3pa
+ckages/xparse/xparse.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ke
+rnel/expl3.sty"
+Package: expl3 2019-01-28 L3 programming layer (loader) 
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ke
+rnel/expl3-code.tex"
+Package: expl3 2019-01-28 L3 programming layer (code)
+\c_max_int=\count149
+\l_tmpa_int=\count150
+\l_tmpb_int=\count151
+\g_tmpa_int=\count152
+\g_tmpb_int=\count153
+\g__kernel_prg_map_int=\count154
+\c_log_iow=\count155
+\l_iow_line_count_int=\count156
+\l__iow_line_target_int=\count157
+\l__iow_one_indent_int=\count158
+\l__iow_indent_int=\count159
+\c_zero_dim=\dimen197
+\c_max_dim=\dimen198
+\l_tmpa_dim=\dimen199
+\l_tmpb_dim=\dimen256
+\g_tmpa_dim=\dimen257
+\g_tmpb_dim=\dimen258
+\c_zero_skip=\skip67
+\c_max_skip=\skip68
+\l_tmpa_skip=\skip69
+\l_tmpb_skip=\skip70
+\g_tmpa_skip=\skip71
+\g_tmpb_skip=\skip72
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count160
+\l__intarray_loop_int=\count161
+\c__intarray_sp_dim=\dimen259
+\g__intarray_font_int=\count162
+\c__fp_leading_shift_int=\count163
+\c__fp_middle_shift_int=\count164
+\c__fp_trailing_shift_int=\count165
+\c__fp_big_leading_shift_int=\count166
+\c__fp_big_middle_shift_int=\count167
+\c__fp_big_trailing_shift_int=\count168
+\c__fp_Bigg_leading_shift_int=\count169
+\c__fp_Bigg_middle_shift_int=\count170
+\c__fp_Bigg_trailing_shift_int=\count171
+\c__kernel_randint_max_int=\count172
+\g__fp_array_int=\count173
+\l__fp_array_loop_int=\count174
+\l__sort_length_int=\count175
+\l__sort_min_int=\count176
+\l__sort_top_int=\count177
+\l__sort_max_int=\count178
+\l__sort_true_max_int=\count179
+\l__sort_block_int=\count180
+\l__sort_begin_int=\count181
+\l__sort_end_int=\count182
+\l__sort_A_int=\count183
+\l__sort_B_int=\count184
+\l__sort_C_int=\count185
+\l__tl_analysis_normal_int=\count186
+\l__tl_analysis_index_int=\count187
+\l__tl_analysis_nesting_int=\count188
+\l__tl_analysis_type_int=\count189
+\l__regex_internal_a_int=\count190
+\l__regex_internal_b_int=\count191
+\l__regex_internal_c_int=\count192
+\l__regex_balance_int=\count193
+\l__regex_group_level_int=\count194
+\l__regex_mode_int=\count195
+\c__regex_cs_in_class_mode_int=\count196
+\c__regex_cs_mode_int=\count197
+\l__regex_catcodes_int=\count198
+\l__regex_default_catcodes_int=\count199
+\c__regex_catcode_D_int=\count266
+\c__regex_catcode_S_int=\count267
+\c__regex_catcode_L_int=\count268
+\c__regex_catcode_O_int=\count269
+\c__regex_catcode_A_int=\count270
+\c__regex_all_catcodes_int=\count271
+\l__regex_show_lines_int=\count272
+\l__regex_min_state_int=\count273
+\l__regex_max_state_int=\count274
+\l__regex_left_state_int=\count275
+\l__regex_right_state_int=\count276
+\l__regex_capturing_group_int=\count277
+\l__regex_min_pos_int=\count278
+\l__regex_max_pos_int=\count279
+\l__regex_curr_pos_int=\count280
+\l__regex_start_pos_int=\count281
+\l__regex_success_pos_int=\count282
+\l__regex_curr_char_int=\count283
+\l__regex_curr_catcode_int=\count284
+\l__regex_last_char_int=\count285
+\l__regex_case_changed_char_int=\count286
+\l__regex_curr_state_int=\count287
+\l__regex_step_int=\count288
+\l__regex_min_active_int=\count289
+\l__regex_max_active_int=\count290
+\l__regex_replacement_csnames_int=\count291
+\l__regex_match_count_int=\count292
+\l__regex_min_submatch_int=\count293
+\l__regex_submatch_int=\count294
+\l__regex_zeroth_submatch_int=\count295
+\g__regex_trace_regex_int=\count296
+\c_empty_box=\box46
+\l_tmpa_box=\box47
+\l_tmpb_box=\box48
+\g_tmpa_box=\box49
+\g_tmpb_box=\box50
+\l__box_top_dim=\dimen260
+\l__box_bottom_dim=\dimen261
+\l__box_left_dim=\dimen262
+\l__box_right_dim=\dimen263
+\l__box_top_new_dim=\dimen264
+\l__box_bottom_new_dim=\dimen265
+\l__box_left_new_dim=\dimen266
+\l__box_right_new_dim=\dimen267
+\l__box_internal_box=\box51
+\l__coffin_internal_box=\box52
+\l__coffin_internal_dim=\dimen268
+\l__coffin_offset_x_dim=\dimen269
+\l__coffin_offset_y_dim=\dimen270
+\l__coffin_x_dim=\dimen271
+\l__coffin_y_dim=\dimen272
+\l__coffin_x_prime_dim=\dimen273
+\l__coffin_y_prime_dim=\dimen274
+\c_empty_coffin=\box53
+\l__coffin_aligned_coffin=\box54
+\l__coffin_aligned_internal_coffin=\box55
+\l_tmpa_coffin=\box56
+\l_tmpb_coffin=\box57
+\g_tmpa_coffin=\box58
+\g_tmpb_coffin=\box59
+\c__coffin_empty_coffin=\box60
+\l__coffin_display_coffin=\box61
+\l__coffin_display_coord_coffin=\box62
+\l__coffin_display_pole_coffin=\box63
+\l__coffin_display_offset_dim=\dimen275
+\l__coffin_display_x_dim=\dimen276
+\l__coffin_display_y_dim=\dimen277
+\g__file_internal_ior=\read3
+\l__coffin_bounding_shift_dim=\dimen278
+\l__coffin_left_corner_dim=\dimen279
+\l__coffin_right_corner_dim=\dimen280
+\l__coffin_bottom_corner_dim=\dimen281
+\l__coffin_top_corner_dim=\dimen282
+\l__coffin_scaled_total_height_dim=\dimen283
+\l__coffin_scaled_width_dim=\dimen284
+\l__seq_internal_a_int=\count297
+\l__seq_internal_b_int=\count298
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ke
+rnel/l3pdfmode.def"
+File: l3pdfmode.def 2019-01-28 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count299
+))
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count300
+\g__xparse_grabber_int=\count301
+\l__xparse_m_args_int=\count302
+\l__xparse_mandatory_args_int=\count303
+\l__xparse_v_nesting_int=\count304
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/medi
+a9/pdfbase.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3pa
+ckages/l3keys2e/l3keys2e.sty"
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2019/02/21 v0.27 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count305
+\g_pbs_oc_int=\count306
+)
+Package: xsavebox 2018/07/09 v0.12 saveboxes for repeating content without code
+ replication
+\g_xsb_id_int=\count307
+\l_xsb_box=\box64
+\l_xsb_raw_box=\box65
+)
+\c@theorem=\count308
+\c@lemma=\count309
+\c@defin=\count310
+Package hyperref Info: Option `colorlinks' set `true' on input line 24.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/hypcap.sty"
+Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mult
+irow/multirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip73
+\multirow@cntb=\count311
+\multirow@dima=\skip74
+\bigstrutjot=\dimen285
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
+bel/babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
+bel/switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arab
+i/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babe
+l-english/english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
+bel/babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count312
+\U@D=\dimen286
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ba
+bel/txtbabel.def")
+\bbl@dirlevel=\count313
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@american = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/blin
+dtext/blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count314
+\c@Blindtext=\count315
+\c@blind@countparstart=\count316
+\blind@countxx=\count317
+\blindtext@numBlindtext=\count318
+\blind@countyy=\count319
+\c@blindlist=\count320
+\c@blindlistlevel=\count321
+\c@blindlist@level=\count322
+\blind@listitem=\count323
+\c@blind@listcount=\count324
+\c@blind@levelcount=\count325
+\blind@mathformula=\count326
+\blind@Mathformula=\count327
+\c@blind@randomcount=\count328
+\c@blind@randommax=\count329
+\c@blind@pangramcount=\count330
+\c@blind@pangrammax=\count331
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip75
+\LTright=\skip76
+\LTpre=\skip77
+\LTpost=\skip78
+\LTchunksize=\count332
+\LTcapwidth=\dimen287
+\LT@head=\box66
+\LT@firsthead=\box67
+\LT@foot=\box68
+\LT@lastfoot=\box69
+\LT@cols=\count333
+\LT@rows=\count334
+\c@LT@tables=\count335
+\c@LT@chunks=\count336
+\LT@p@ftn=\toks49
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/book
+tabs/booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen288
+\lightrulewidth=\dimen289
+\cmidrulewidth=\dimen290
+\belowrulesep=\dimen291
+\belowbottomsep=\dimen292
+\aboverulesep=\dimen293
+\abovetopsep=\dimen294
+\cmidrulesep=\dimen295
+\cmidrulekern=\dimen296
+\defaultaddspace=\dimen297
+\@cmidla=\count337
+\@cmidlb=\count338
+\@aboverulesep=\dimen298
+\@belowrulesep=\dimen299
+\@thisruleclass=\count339
+\@lastruleclass=\count340
+\@thisrulewidth=\dimen300
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgfg
+antt/pgfgantt.sty"
+Package: pgfgantt 2018/01/10 v5.0 Draw Gantt diagrams with TikZ
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/libraries/pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2019/01/05 v3.1 (3.1)
+\arrowsize=\dimen301
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex"
+File: tikzlibrarybackgrounds.code.tex 2019/01/05 v3.1 (3.1)
+\pgf@layerbox@background=\box70
+\pgf@layerboxsaved@background=\box71
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex"
+File: tikzlibrarypatterns.code.tex 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/libraries/pgflibrarypatterns.code.tex"
+File: pgflibrarypatterns.code.tex 2019/01/05 v3.1 (3.1)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/01/05 v3.1 (3.1)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2019/01/05 v3.1 (3.1)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/libraries/shapes/pgflibraryshapes.geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2019/01/05 v3.1 (3.1)
+))
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+utilities/pgfcalendar.sty"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/utilities/pgfcalendar.code.tex"
+File: pgfcalendar.code.tex 2019/01/05 v3.1 (3.1)
+\pgfcalendarcurrentjulian=\count341
+))
+\gtt@currentline=\count342
+\gtt@lasttitleline=\count343
+\gtt@currgrid=\count344
+\gtt@chartwidth=\count345
+\gtt@lasttitleslot=\count346
+\gtt@elementid=\count347
+\gtt@today@slot=\count348
+\gtt@startjulian=\count349
+\gtt@endjulian=\count350
+\gtt@chartid=\count351
+\gtt@vrule@slot=\count352
+\gtt@calendar@slots=\count353
+\gtt@calendar@weeknumber=\count354
+\gtt@calendar@startofweek=\count355
+\gtt@left@slot=\count356
+\gtt@right@slot=\count357
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fanc
+yvrb/fancyvrb.sty"
+Package: fancyvrb 2019/01/15
+ Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
+\FV@CodeLineNo=\count358
+\FV@InFile=\read4
+\FV@TabBox=\box72
+\c@FancyVerbLine=\count359
+\FV@StepNumber=\count360
+\FV@OutFile=\write4
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
+s/hhline.sty"
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cell
+space/cellspace.sty"
+Package: cellspace 2017/08/12 v1.7 Spacing table cells (JN)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkey
+val/xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xk
+eyval/xkeyval.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xk
+eyval/xkvutils.tex"
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
+)
+\XKV@depth=\count361
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+LaTeX Warning: Command \@startpbox  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \@endpbox  has changed.
+               Check if current package is valid.
+
+\cellspacetoplimit=\dimen302
+\cellspacebottomlimit=\dimen303
+\cellspace@firstht=\dimen304
+\cellspace@lastdp=\dimen305
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/math
+tools/mathtools.sty"
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/math
+tools/mhsetup.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count362
+\l_MT_multwidth_dim=\dimen306
+\origjot=\skip79
+\l_MT_shortvdotswithinadjustabove_dim=\dimen307
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen308
+\l_MT_above_intertext_sep=\dimen309
+\l_MT_below_intertext_sep=\dimen310
+\l_MT_above_shortintertext_sep=\dimen311
+\l_MT_below_shortintertext_sep=\dimen312
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite
+/cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+\c@rgcounter=\count363
+\c@rccounter=\count364
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
+frontendlayer/libraries/tikzlibraryexternal.code.tex"
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
+f/frontendlayer/tikz/libraries/tikzexternalshared.code.tex"))
+
+LaTeX Warning: Unused global option(s):
+    [timesnewroman].
+
+(main.aux
+
+LaTeX Warning: Label `semanticdefofreqspec' multiply defined.
+
+
+LaTeX Warning: Label `fig_power' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig_power' multiply defined.
+
+
+LaTeX Warning: Label `fig_util_power' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box73
+Package hyperref Info: Link coloring ON on input line 110.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hype
+rref/nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ob
+erdiek/gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count365
+)
+LaTeX Info: Redefining \ref on input line 110.
+LaTeX Info: Redefining \pageref on input line 110.
+LaTeX Info: Redefining \nameref on input line 110.
+ (main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/context/ba
+se/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count366
+\scratchdimen=\dimen313
+\scratchbox=\box74
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen314
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks53
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpeg,.png,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ober
+diek/pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
+hics/lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hypcap package is loaded.
+Package caption Info: longtable package is loaded.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/capt
+ion/ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ ABD: EveryShipout initializing macros
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
+onts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsf
+onts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdft
+ex.map}]
+Underfull \hbox (badness 7433) in paragraph at lines 144--145
+[]\T1/cmr/m/n/10 Safety-critical requirements specifications should be readable
+, unambiguous and
+ []
+
+[2] (sections/introduction.tex
+<pics/multirate.pdf, id=143, 497.60907pt x 303.38344pt>
+File: pics/multirate.pdf Graphic file (type pdf)
+<use pics/multirate.pdf>
+Package pdftex.def Info: pics/multirate.pdf  used on input line 12.
+(pdftex.def)             Requested size: 270.1077pt x 164.68102pt.
+<pics/timedpath.pdf, id=144, 279.41428pt x 164.54771pt>
+File: pics/timedpath.pdf Graphic file (type pdf)
+<use pics/timedpath.pdf>
+Package pdftex.def Info: pics/timedpath.pdf  used on input line 17.
+(pdftex.def)             Requested size: 187.89914pt x 110.65564pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]\T1/cmr/m/n/10 (b) |[]Timed Paths for the Chain:
+ []
+
+[3 <./pics/multirate.pdf> <./pics/timedpath.pdf
+
+pdfTeX warning: pdflatex (file ./pics/timedpath.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>]
+<pics/vmodel.pdf, id=186, 213.91849pt x 192.36938pt>
+File: pics/vmodel.pdf Graphic file (type pdf)
+<use pics/vmodel.pdf>
+Package pdftex.def Info: pics/vmodel.pdf  used on input line 36.
+(pdftex.def)             Requested size: 187.89914pt x 168.98029pt.
+
+Underfull \hbox (badness 3803) in paragraph at lines 40--41
+\T1/cmr/m/n/10.95 development stages as illustrated by the V-model
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 40--41
+\T1/cmr/m/n/10.95 in Figure [][]2[][]. In the particular case of top-down
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 42--43
+[]\T1/cmr/m/n/10.95 Requirements specifications are structured collections of f
+unctional and extra-functional
+ []
+
+[4 <./pics/vmodel.pdf>]) (sections/goals.tex
+Overfull \hbox (137.13026pt too wide) in paragraph at lines 1--1
+[][][]\T1/cmr/m/n/9 http://www.es.mdh.se/projects/343-VeriSpec___Structured_Spe
+cification_and_Automated_Verification_for_Automotive_Functional_Safety| 
+ []
+
+[5]
+Underfull \hbox (badness 2717) in paragraph at lines 22--22
+[]\T1/cmr/m/n/10.95 Facilitate rigorous analysis of embedded systems requiremen
+ts
+ []
+
+[6]
+Underfull \hbox (badness 1466) in paragraph at lines 34--34
+[]\T1/cmr/m/n/10.95 Find an effective and efficient allocation of multirate sof
+tware
+ []
+
+[7]
+Underfull \hbox (badness 6461) in paragraph at lines 53--53
+[]\T1/cmr/m/n/10.95 Provide automated and engineering-friendly support for the
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 53--53
+\T1/cmr/m/n/10.95 requirements specification, software allocation of embedded a
+nd
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 63--64
+[]|\T1/cmr/bx/n/10.95 ReSA: An Ontology-based Requirement Specification Languag
+e Tailored to
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 62--69
+[] 
+ []
+
+[8]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 71--98
+[] 
+ []
+
+[9]
+Underfull \hbox (badness 3815) in paragraph at lines 103--103
+[]|\T1/cmr/bx/n/10.95 Abstract: \T1/cmr/m/it/10.95 Due to the increasing comple
+xity of embedded systems, early detection of
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 100--107
+[] 
+ []
+
+[10]
+Underfull \hbox (badness 1173) in paragraph at lines 133--134
+[]|\T1/cmr/bx/n/10.95 In Case of Rejection: \T1/cmr/m/n/10.95 Power-aware Alloc
+ation of Fault-tolerant Multi-rate AUTOSAR
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 109--137
+[] 
+ []
+
+[11]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 139--161
+[] 
+ []
+
+[12]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 173--180
+[] 
+ []
+
+[13]
+<pics/contributions.pdf, id=319, 562.35094pt x 320.69812pt>
+File: pics/contributions.pdf Graphic file (type pdf)
+<use pics/contributions.pdf>
+Package pdftex.def Info: pics/contributions.pdf  used on input line 188.
+(pdftex.def)             Requested size: 375.80544pt x 204.86478pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (36.4544pt too wide) in paragraph at lines 198--205
+[][] 
+ []
+
+
+Overfull \hbox (132.27446pt too wide) in paragraph at lines 208--215
+[][] 
+ []
+
+[14]
+Overfull \hbox (26.98827pt too wide) in paragraph at lines 232--238
+[]|[]| 
+ []
+
+
+Overfull \hbox (111.47992pt too wide) in paragraph at lines 222--240
+[][] 
+ []
+
+<pics/aslreq.png, id=334, 362.10281pt x 221.32687pt>
+File: pics/aslreq.png Graphic file (type png)
+<use pics/aslreq.png>
+Package pdftex.def Info: pics/aslreq.png  used on input line 246.
+(pdftex.def)             Requested size: 223.13649pt x 136.38705pt.
+<pics/aslbp.png, id=335, 362.85562pt x 283.0575pt>
+File: pics/aslbp.png Graphic file (type png)
+<use pics/aslbp.png>
+Package pdftex.def Info: pics/aslbp.png  used on input line 252.
+(pdftex.def)             Requested size: 223.13649pt x 174.06851pt.
+[15 <./pics/contributions.pdf>] [16 <./pics/aslreq.png> <./pics/aslbp.png>]
+
+pdfTeX warning: pdflatex (file ./pics/requirementsanlaysis.pdf): PDF inclusion:
+ found PDF version <1.6>, but at most version <1.5> allowed
+<pics/requirementsanlaysis.pdf, id=374, 481.35733pt x 228.31589pt>
+File: pics/requirementsanlaysis.pdf Graphic file (type pdf)
+<use pics/requirementsanlaysis.pdf>
+Package pdftex.def Info: pics/requirementsanlaysis.pdf  used on input line 288.
+
+(pdftex.def)             Requested size: 375.80544pt x 176.17792pt.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 292.
+
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/t1cmss.fd"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [17 <./pics/requirementsanlaysis.pdf>]
+<resa_editor.png, id=400, 547.2947pt x 290.58563pt>
+File: resa_editor.png Graphic file (type png)
+<use resa_editor.png>
+Package pdftex.def Info: resa_editor.png  used on input line 308.
+(pdftex.def)             Requested size: 223.13649pt x 118.47577pt.
+<consistencychecker.jpg, id=401, 516.44142pt x 522.5121pt>
+File: consistencychecker.jpg Graphic file (type jpg)
+<use consistencychecker.jpg>
+Package pdftex.def Info: consistencychecker.jpg  used on input line 314.
+(pdftex.def)             Requested size: 223.13649pt x 225.76013pt.
+ [18 <./resa_editor.png> <./consistencychecker.jpg>]
+<pics/softwareallocation.pdf, id=412, 392.92276pt x 394.31566pt>
+File: pics/softwareallocation.pdf Graphic file (type pdf)
+<use pics/softwareallocation.pdf>
+Package pdftex.def Info: pics/softwareallocation.pdf  used on input line 330.
+(pdftex.def)             Requested size: 281.85587pt x 282.86615pt.
+ [19 <./pics/softwareallocation.pdf>]
+<pics/util.pdf, id=441, 528.48442pt x 318.75487pt>
+File: pics/util.pdf Graphic file (type pdf)
+<use pics/util.pdf>
+Package pdftex.def Info: pics/util.pdf  used on input line 397.
+(pdftex.def)             Requested size: 223.13649pt x 134.58624pt.
+<pics/power.pdf, id=442, 526.2598pt x 316.6751pt>
+File: pics/power.pdf Graphic file (type pdf)
+<use pics/power.pdf>
+Package pdftex.def Info: pics/power.pdf  used on input line 403.
+(pdftex.def)             Requested size: 223.13649pt x 134.27345pt.
+<pics/continuous.pdf, id=447, 336.25626pt x 173.64874pt>
+File: pics/continuous.pdf Graphic file (type pdf)
+<use pics/continuous.pdf>
+Package pdftex.def Info: pics/continuous.pdf  used on input line 419.
+(pdftex.def)             Requested size: 211.3883pt x 109.1661pt.
+<pics/discrete.pdf, id=448, 327.2225pt x 173.64874pt>
+File: pics/discrete.pdf Graphic file (type pdf)
+<use pics/discrete.pdf>
+Package pdftex.def Info: pics/discrete.pdf  used on input line 425.
+(pdftex.def)             Requested size: 211.3883pt x 112.17877pt.
+
+
+pdfTeX warning: pdflatex (file ./pics/bbw.pdf): PDF inclusion: found PDF versio
+n <1.6>, but at most version <1.5> allowed
+<pics/bbw.pdf, id=449, 845.1575pt x 597.23125pt>
+File: pics/bbw.pdf Graphic file (type pdf)
+<use pics/bbw.pdf>
+Package pdftex.def Info: pics/bbw.pdf  used on input line 434.
+(pdftex.def)             Requested size: 469.75502pt x 331.95937pt.
+[20]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<modelchecking.pdf, id=464, 525.46312pt x 206.27063pt>
+File: modelchecking.pdf Graphic file (type pdf)
+<use modelchecking.pdf>
+Package pdftex.def Info: modelchecking.pdf  used on input line 446.
+(pdftex.def)             Requested size: 422.77664pt x 131.62726pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 456.
+
+
+("/Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
+/omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 456.
+ [21 <./pics/util.pdf> <./pics/power.pdf
+
+pdfTeX warning: pdflatex (file ./pics/power.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
+> <./pics/continuous.pdf> <./pics/discrete.pdf>] [22 <./pics/bbw.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+[]\T1/cmr/m/n/10.95 We automate the transformation from the Simulink model to t
+he NSTA
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+\T1/cmr/m/n/10.95 model in the tool SIMPPAAL, which is accessible from Bitbucke
+t site
+ []
+
+) (sections/method.tex
+<pics/research_process.pdf, id=531, 735.49782pt x 303.38344pt>
+File: pics/research_process.pdf Graphic file (type pdf)
+<use pics/research_process.pdf>
+Package pdftex.def Info: pics/research_process.pdf  used on input line 5.
+(pdftex.def)             Requested size: 375.80544pt x 159.36664pt.
+ [23 <./modelchecking.pdf>]) [24 <./pics/research_process.pdf>] (sections/outli
+ne.tex
+Underfull \hbox (badness 1132) in paragraph at lines 28--29
+[]\T1/cmr/m/n/10.95 ReSA Framework - Integrated Framework for Formal Analysis o
+f Requirements
+ []
+
+) [25] (sections/progress.tex
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no ; in font nullfont!
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--160
+[]
+ []
+
+[26]) (sections/thirdcycle.tex
+Underfull \hbox (badness 1776) in paragraph at lines 36--37
+[]\T1/cmr/m/n/10.95 I have attended the following webinars, seminars, licentiat
+e and doctoral proposals and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 111
+ []
+
+[27] [28] [29]
+Underfull \vbox (badness 10000) detected at line 178
+ []
+
+[30]
+Underfull \vbox (badness 10000) detected at line 221
+ []
+
+) (sections/relatedwork.tex
+Underfull \hbox (badness 1275) in paragraph at lines 6--7
+[]\T1/cmr/m/n/10.95 The template-based methods, in particular requirements boil
+erplate uses templates (or
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 6--7
+\T1/cmr/m/n/10.95 boilerplates) which are reusable, recurrent patterns to speci
+fy requirements, e.g., CESAR
+ []
+
+[31] [32]) (sections/conclusion.tex) (main.bbl [33]
+Underfull \hbox (badness 1152) in paragraph at lines 54--58
+[]\T1/cmr/m/n/10.95 Peter Bulychev, Alexandre David, Kim Gulstrand Larsen, Mari
+us Miku£ionis, Danny
+ []
+
+[34] [35] [36] [37]) [38]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 2A99DF6D7175EB778ABC0ABB3F02BF39;2244.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
+ ) 
+Here is how much of TeX's memory you used:
+ 34203 strings out of 494865
+ 667573 string characters out of 3176629
+ 751938 words of memory out of 3000000
+ 37075 multiletter control sequences out of 15000+200000
+ 553066 words of font info for 73 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 55i,21n,77p,2382b,668s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour
+/jknappen/ec/dpi600/ecss1000.pk> </Users/nmd02/Library/Application Support/MiKT
+eX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti0800.pk> </Users/nmd02/Li
+brary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600
+/ecbx1095.pk> </Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/font
+s/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </Users/nmd02/Library/Application S
+upport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk> </Use
+rs/nmd02/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappe
+n/ec/dpi600/ecrm0600.pk> </Users/nmd02/Library/Application Support/MiKTeX/texmf
+s/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </Users/nmd02/Library/Ap
+plication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti109
+5.pk> </Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljf
+our/jknappen/ec/dpi600/ecbx1440.pk> </Users/nmd02/Library/Application Support/M
+iKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </Users/nmd02
+/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi
+600/ecrm1000.pk> </Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </Users/nmd02/Library/Applicatio
+n Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </
+Users/nmd02/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkna
+ppen/ec/dpi600/ecbx1728.pk></Users/nmd02/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/nmd02/Library/App
+lication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+></Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></Users/nmd02/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/nmd02/Library/Appli
+cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</Users/nmd02/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (38 pages, 3077193 bytes).
+PDF statistics:
+ 1339 PDF objects out of 1440 (max. 8388607)
+ 204 named destinations out of 1000 (max. 500000)
+ 360 words of extra memory for PDF output out of 10000 (max. 10000000)
+
